@@ -19,3 +19,5 @@ Prediction: After training the model, it can make predictions on new, unseen dat
 Evaluation Metrics: These are used to assess the performance of the classification model. Common metrics include accuracy, precision, recall, and F1 score.
 
 Similarity metrics are mathematical measures used to determine how alike two data points are based on their features: Euclidean Distance, Manhattan Distance, Cosine Similarity, Jaccard Similarity
+
+https://www.geeksforgeeks.org/machine-learning-projects/
